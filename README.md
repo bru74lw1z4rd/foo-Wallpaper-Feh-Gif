@@ -5,8 +5,8 @@ It's **duplicate wallpaper fixed version** of [foo-Wallpaper-Feh-Gif](https://gi
 
 **! INCREASES CPU use**
 
-<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation2.gif"  />
-<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation4.gif"  />
+<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/examples/desktop-animation2.gif"/>
+<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/examples/desktop-animation4.gif"/>
 
 # To run it
 Download back4.sh and place your desired gif in the `gif` directory.
