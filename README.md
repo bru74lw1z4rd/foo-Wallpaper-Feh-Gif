@@ -5,8 +5,8 @@ It's **duplicate wallpaper fixed version** of [foo-Wallpaper-Feh-Gif](https://gi
 
 **! INCREASES CPU use**
 
-<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/examples/desktop-animation2.gif"/>
-<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/examples/desktop-animation4.gif"/>
+<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation2.gif"  />
+<img src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation4.gif"  />
 
 # To run it
 Download back4.sh and place your desired gif in the `gif` directory.
@@ -20,7 +20,7 @@ chmod +x run_wallpaper
 ```
 
 # select between feh,xload,xwallpaper,ubuntu-xfce
-edit back4.sh, set prog=$select2 for xwallpaper, or select4 for ubuntu-xfce
+edit run_wallpaper, set prog=$select2 for xwallpaper, or select4 for ubuntu-xfce
 
 # autostart with i3, in i3 config :
 
