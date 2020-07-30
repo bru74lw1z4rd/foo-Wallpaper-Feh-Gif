@@ -46,7 +46,7 @@ ls gif/name.gif-0.010
 
 # To clean cache
  ```
-rm -rf /tmp/back4
+rm -rf /tmp/run_wallpaper
 ```
 
 I search a lighter alternative than feh in cpu ress
